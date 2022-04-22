@@ -1,0 +1,9 @@
+.Text {
+  padding: 1rem;
+  margin: 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+}
